@@ -1,0 +1,35 @@
+{
+  "id": "78907459-0039-4eb5-ba54-a8417a87e523",
+  "name": "Acknowledgement",
+  "auto": true,
+  "contexts": [
+    "awaits-ack"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "490945d9-f237-4c2c-920e-dbd0ddefa2e4",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "ack",
+          "value": "$ack",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

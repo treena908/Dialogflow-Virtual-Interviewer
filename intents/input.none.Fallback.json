@@ -1,0 +1,49 @@
+{
+  "id": "e9994b2f-26cf-479b-b679-c382944a73af",
+  "name": "input.none.Fallback",
+  "auto": true,
+  "contexts": [
+    "actions_intent_no_input"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaits-response",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "confirm-yes",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "confirm-no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "are you still there?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [
+    {
+      "name": "actions_intent_NO_INPUT"
+    }
+  ]
+}

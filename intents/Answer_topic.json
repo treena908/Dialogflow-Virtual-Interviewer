@@ -1,0 +1,51 @@
+{
+  "id": "c29d15a9-b74f-45ab-aeca-479258a0bf48",
+  "name": "Answer:topic",
+  "auto": true,
+  "contexts": [
+    "awaits-response"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "confirm-no",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "confirm-yes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "awaits-response",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "42577e9b-7fe3-46ad-a82a-48d0ae50812c",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "topic",
+          "value": "$topic",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": true
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

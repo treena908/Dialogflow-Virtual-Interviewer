@@ -1,0 +1,128 @@
+[
+  {
+    "id": "98d20b99-4c93-4af4-8e0d-7cb03e30ba25",
+    "data": [
+      {
+        "text": "oh boy",
+        "alias": "ack",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09c5a05-e244-49c5-b6b3-d0e07d5a8c91",
+    "data": [
+      {
+        "text": "all righty",
+        "alias": "ack",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80782c51-4ce7-455d-8d27-85b797d10631",
+    "data": [
+      {
+        "text": "right",
+        "alias": "ack",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f53e0cc3-a54a-45d0-accb-72760585776c",
+    "data": [
+      {
+        "text": "all right",
+        "alias": "ack",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54869584-3829-4e61-bda9-bee26d10a7f8",
+    "data": [
+      {
+        "text": "hmm",
+        "alias": "ack",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8efb6f67-2746-4a83-9449-35aab24465f2",
+    "data": [
+      {
+        "text": "got it",
+        "alias": "ack",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "676e5bdf-9dce-4540-827c-14ddeeb3ecdc",
+    "data": [
+      {
+        "text": "I understand",
+        "alias": "ack",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "368204d1-977f-4f32-a366-818e4a1d3dd1",
+    "data": [
+      {
+        "text": "alright",
+        "alias": "ack",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5898f27-7638-460b-90b1-da28dbac7b2e",
+    "data": [
+      {
+        "text": "okay",
+        "alias": "ack",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

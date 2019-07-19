@@ -1,0 +1,23 @@
+{
+  "id": "b0fb2043-3870-4e62-9c23-73b37a5a4364",
+  "name": "Closing-remark",
+  "auto": true,
+  "contexts": [
+    "confirm-no"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

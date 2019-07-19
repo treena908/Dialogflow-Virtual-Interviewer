@@ -1,0 +1,50 @@
+{
+  "id": "c97b0bd8-5802-4c09-8635-9f5fd0c2dd61",
+  "name": "input.none",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "awaits-response",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "confirm-yes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "confirm-no",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "anything else?",
+            "are you there?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_NO_INPUT"
+    }
+  ]
+}

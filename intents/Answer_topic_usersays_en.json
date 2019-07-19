@@ -1,0 +1,350 @@
+[
+  {
+    "id": "fb191ce0-11e0-4f1c-b5c8-5213c3f1c58d",
+    "data": [
+      {
+        "text": "the mother is wearing apron",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d1b4ba3-149e-46e2-a919-8abc1f4bc6db",
+    "data": [
+      {
+        "text": "there is cup, plate lying on the counter",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32bffeea-fec2-4ce5-af48-567fca3b7c4f",
+    "data": [
+      {
+        "text": "she is drying the dishes",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbbbdcde-f22c-49df-bca1-65da06fd71a0",
+    "data": [
+      {
+        "text": "there is cupboard in the kitchen",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29f4e505-abb3-4bfc-807c-5554c600263f",
+    "data": [
+      {
+        "text": "the mother is doing dishes in the kitchen",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "743c92bb-2c6f-4570-b918-875027db5d64",
+    "data": [
+      {
+        "text": "the lid of the cookie jar is falling",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2a12db9-771c-4725-a846-32cc4b8cb4cc",
+    "data": [
+      {
+        "text": "the little boy is tipping over from the four legged stool",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1904b97-da85-48d0-8db2-feb65b6e143b",
+    "data": [
+      {
+        "text": "the drapes is blowing",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88ed4102-fab7-423d-9cf8-8312acfd7e5f",
+    "data": [
+      {
+        "text": "there are trees, bushes outside the window",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cea754e4-9697-41df-8c4f-cc4ffc12587d",
+    "data": [
+      {
+        "text": "there is a garden out of the window",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47bd7db7-f8b0-4e2d-a054-7da58ba53f54",
+    "data": [
+      {
+        "text": "the sister is taking cookie from her brother",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3a9281a-284c-405d-b4df-5f859487a110",
+    "data": [
+      {
+        "text": "the brother is stealing cookie from the cookie jar",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cc23373-1b5a-4853-96b9-13bab800f0d8",
+    "data": [
+      {
+        "text": "there is path out of the widow",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdb9addd-cfba-4fca-a5a8-84185687d762",
+    "data": [
+      {
+        "text": "it seems it is summer time.",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45ea84d6-aa18-47bd-93da-19eaf500efb8",
+    "data": [
+      {
+        "text": "there is curtain in the window",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4753e67f-463f-4005-80b3-005495508074",
+    "data": [
+      {
+        "text": "the woman is looking out of the window",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "557eebdd-6173-41dc-934f-adaaad40b7f3",
+    "data": [
+      {
+        "text": "the mother is not looking at the kids",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afff5d24-3c8a-49c3-b23e-d08c811ebb25",
+    "data": [
+      {
+        "text": "the little girl is saying shhh",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d7c73f5-c163-4d88-8abf-26a5c548d128",
+    "data": [
+      {
+        "text": "water is overflowing out of the sink",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74c68fe4-6633-4dc3-a8ee-5dc03f778ad9",
+    "data": [
+      {
+        "text": "the kids are stealing cookie",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b67cf15d-82ef-40db-8976-b20892fc6139",
+    "data": [
+      {
+        "text": "the girl is standing",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "525c3339-213b-4636-b97d-106a05bfa54f",
+    "data": [
+      {
+        "text": "the boy is stealing cookie from the cookie jar",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7b8fcb5-2d7c-44aa-8ffe-a989156d099a",
+    "data": [
+      {
+        "text": "Kids are in the kitchen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc2cebd4-5846-4f97-bdb8-a31bc0d67a31",
+    "data": [
+      {
+        "text": "she is washing dishes",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51fd04b5-84bd-4892-b736-b9415aefab3a",
+    "data": [
+      {
+        "text": "the woman is washing dishes",
+        "alias": "topic",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
